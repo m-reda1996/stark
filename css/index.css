@@ -13,6 +13,7 @@
 body {
   background-color: white;
   text-align: right;
+  direction: rtl;
 }
 
 /* :root {
